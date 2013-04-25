@@ -10,11 +10,11 @@ See LICENSE.txt or http://www.opensource.org/licenses/mit-license.php
 ASCII map in map-world-01.txt is copyright:
  "Map 1998 Matthew Thomas. Freely usable as long as this line is included"
 
-Based on (semi)public Virus World Map 3 JSON feed.
+Based on (semi)public F-Secure Virus World Map 3 JSON feed.
 
 This small piece of software was originally done only for demonstrating
 how the data could be used. There are no guarantees whatsoever that
-the live stream stays accessible and or that the information is accurate
+the live stream stays accessible nor that the information is accurate
 in any way.
 
 Usage
