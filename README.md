@@ -42,6 +42,11 @@ Cool ways to use this
 * Instructions and/or videos for these might appear here later
 
 
+Screenshots
+-----------
+
+![Early version running inside Cathode terminal app](screenshot01.jpg)
+
 Notes / TODO
 ------------
 
