@@ -40,7 +40,7 @@ Cool ways to use this
 * Running inside [Cathode Vintage Terminal](http://www.secretgeometry.com/apps/cathode/) app on OSX. There might be some videos in the internets.
 * Running with a real VT100 or something :)
 * Instructions and/or videos for these might appear here later
-
+* Lab screen [running the live version](http://www.youtube.com/watch?v=t_8_tgR0Nc4)
 
 Screenshots
 -----------
